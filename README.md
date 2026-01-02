@@ -1,6 +1,6 @@
 # Distributional Stability Index (DSI) for Riemann Zeta Zeros
 
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18108122.svg)](https://doi.org/10.5281/zenodo.18108122)
 [![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
@@ -121,12 +121,17 @@ If a fraction δ of zeros deviate to σ = 0.6:
 If you use this code, please cite:
 
 ```bibtex
-@article{lee2025dsi,
-  title={A Geometric Diagnostic for Riemann Zeta Zero Distribution 
-         via the Distributional Stability Index},
-  author={Lee, Jeonghoon},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2025}
+@misc{lee_2026_18108122,
+  author       = {Lee, Jeonghoon},
+  title        = {A Geometric Diagnostic for Riemann Zeta Zero
+                   Distribution via the Distributional Stability
+                   Index
+                  },
+  month        = jan,
+  year         = 2026,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.18108122},
+  url          = {https://doi.org/10.5281/zenodo.18108122},
 }
 ```
 
